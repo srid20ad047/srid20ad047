@@ -1,4 +1,4 @@
-![Header](C:\Users\DELL\Desktop\22.png)
+
 <h1 align="center">Hi 👋, I'm SRIDHAR V</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*1ojV4epPGRxhZE26dVI4pQ.gif">
