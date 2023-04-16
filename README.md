@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **srid20ad047@rmkcet.ac.in**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/fpn6e3pwtt](https://flowcv.com/resume/fpn6e3pwtt)
+<!-- - 📄 Know about my experiences [https://flowcv.com/resume/fpn6e3pwtt](https://flowcv.com/resume/fpn6e3pwtt) -->
 
 - ⚡ Fun fact **I think I am funny.**
 
