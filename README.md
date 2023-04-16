@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Angular , JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://sridhar.engineer/](https://sridhar.engineer/)
+- 👨‍💻 All of my projects are available at [https://github.com/srid20ad047](https://github.com/srid20ad047)
 
 - 💬 Ask me about **JAVA , C , Django - Web Development**
 
